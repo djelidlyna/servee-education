@@ -1,0 +1,193 @@
+body{
+    margin: auto;
+    background-color: rgb(246, 239, 231);
+    padding: 50px;
+}
+
+header{
+background-image : url(images/R.jpg)  ;
+
+padding: 300px;
+
+}
+#lo{
+    color: white;
+}
+header nav ul{
+    color: aliceblue;
+    text-decoration: none;
+    font-family: 'popins';
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+margin-bottom: 100px;
+    
+}
+h1{
+    font-family: bold;
+    color: rgb(1, 255, 137);
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+p{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+#c {
+background-color: rgba(240, 248, 255, 0.009);
+    color:white;
+    padding: 10px;
+    border-radius: 8px;
+    width: 100px;
+    border: solid rgb(1, 255, 137);
+margin-right: 50px;
+
+}
+#j{
+    color: white;
+
+    width: 100px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 0px;
+    background-color: rgb(1, 255, 137);
+    margin-left: 500px;
+    margin-top: 100px;
+}
+h3{
+    color: black;
+    display: flex;
+
+}
+ #h{
+
+    padding: 2px;
+    width: 250px;
+    display: flex;
+    margin-left: 580px;
+    background-color: rgb(1, 255, 137);
+    margin-bottom: 30px;
+}
+main h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+  
+}
+#firstrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#secondrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+#web,#mobile,#design,#webapp,#mobileapp,#social{
+    background-color: aliceblue;
+    padding: 100px;
+    width: 160px;
+    height: 100px;
+    filter: brightness(1.2);
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px black;
+
+   
+}
+#row{
+    display: flex;
+    flex-direction: row;
+}
+
+#r{
+    color:  rgb(1, 255, 137);
+
+
+}
+p{
+    color: black;
+    
+}
+
+#thirdrow{
+margin-top: 40px;
+display: flex;
+flex-direction: row;
+}
+
+#img1{
+    height: 300px;
+    margin-bottom: 10px;
+    margin-left: 8px;
+    border-radius: 10px;
+    width: 400px;
+    filter: brightness(0.5);
+}
+#img2{
+    height: 300px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    border-radius: 10px;
+    width: 400px;
+    filter: brightness(0.5);
+    margin-left: 30px;
+
+}
+#l{
+    color: rgb(1, 255, 137);
+    font-size: 40px;
+    font-family: bold;
+    
+    
+}
+#total{
+    display: flex;
+    flex-direction: column;
+    
+}
+button{
+    background-color: rgb(1, 255, 137);
+    padding: 10px;
+    border-radius: 8px;
+    width: 100px;
+    border: none;
+    color: white;
+    
+
+}
+#img3{
+    height: 300px;
+    margin-bottom: 10px;
+    
+    border-radius: 10px;
+    width: 400px;
+    filter: brightness(0.5);
+
+}
+#websitedev{
+    padding: 200px;
+    width: 50px;
+    
+    border-radius: 10px 10px;
+    background-color: aliceblue;
+    
+
+}
+#ads{
+    background-color: aliceblue;
+    padding: 100px;
+    width: 220px;
+    border-radius: 10px 10px;
+    margin-left: 40px;
+}
+#graphic{
+    background-color: aliceblue;
+    padding: 100px;
+    border-radius: 10px 10px ;
+    margin-right: 10px;
+}
